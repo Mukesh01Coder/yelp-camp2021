@@ -1,5 +1,5 @@
 # yelp-camp2021
-About
+
 YelpCamp is a website where users can add campgrounds, comment, create user profiles and authentication.
 
 This project was created using NodeJs, ExpressJs, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
