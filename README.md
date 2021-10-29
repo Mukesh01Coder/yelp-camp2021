@@ -1,11 +1,4 @@
 # yelp-camp2021
 
-YelpCamp is a website where users can add campgrounds, comment, create user profiles and authentication.
-
-This project was created using NodeJs, ExpressJs, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
-
-
-Users can review campgrounds once, and edit or remove their review.
-User profiles include more information on the user (username, email,password), their campgrounds, and the option to  LogOut their account.
-Sort campgrounds by highest rating, most reviewed, lowest price, or highest price.
-Add map and search location.
+I have build yelpcamp website in which users can add, delete, edit campgrounds and comments on other people's camgrounds. User which is owner of campground can only edit and delete that campground and same thing goes for the comments.
+I have used node.js with express framework for backend. And I have used MongoDB as database. For frontend part I have used bootstrap,html and css. For authentication I have used passport js library. Apart from all above I have also used cloudinary to store images for fast page load and I have used Google map api to show location map for each campground. Whole website is fully responsive and have good design.
